@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 -  😄 Pronouns: ...
 -  ⚡ Fun fact: ...
 
-<b><a href="">mvyunko.github.io/surf/</a></b><br>
-<b><a href="">mvyunko.github.io/resume/</a></b><br>
-<b><a href="">mvyunko.github.io/agency</a></b><br>
-<b><a href="">mvyunko.github.io/pulse/</a></b><br>
-<b><a href="">mvyunko.github.io/uber/</a></b><br>
+<b><a href="https://mvyunko.github.io/surf">mvyunko.github.io/surf/</a></b><br>
+<b><a href="https://mvyunko.github.io/resume">mvyunko.github.io/resume/</a></b><br>
+<b><a href="https://mvyunko.github.io/agency">mvyunko.github.io/agency</a></b><br>
+<b><a href="https://mvyunko.github.io/pulse">mvyunko.github.io/pulse/</a></b><br>
+<b><a href="https://mvyunko.github.io/uber">mvyunko.github.io/uber/</a></b><br>
