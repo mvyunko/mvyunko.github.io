@@ -1191,7 +1191,7 @@ template {
 	.promo {
 		background: url("../img/promo.jpg");
 		background-size: cover;
-		background-position: 57% 0;
+		background-position: 57%;
 		background-repeat: no-repeat;
 	}
 	.promo__btns {
