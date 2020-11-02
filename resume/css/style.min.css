@@ -1189,7 +1189,10 @@ template {
 		padding-left: 20px;
 	}
 	.promo {
-		background: url(img/promo.jpg) no-repeat 57% / cover;
+		background: url("img/promo.jpg");
+		background-size: cover;
+		background-position: 57% 0;
+		background-repeat: no-repeat;
 	}
 	.promo__btns {
 		margin-top: 32px;
