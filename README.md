@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-mvyunko.github.io/surf/
+
+mvyunko.github.io/surf/ <br>
+mvyunko.github.io/resume/
