@@ -5,6 +5,21 @@ $(document).ready(function () {
 		speed: 500,
 		fade: true,
 		cssEase: "linear",
+		slidesToShow: 1,
+		slidesToScroll: 1,
+		adaptiveHeight: true,
+		prevArrow: '<button class="slick-btn slick-prev"><img src="img/arrow_left.png" alt="" /></button>',
+		nextArrow: '<button class="slick-btn slick-next"><img src="img/arrow_right.png" alt="" /></button>',
+	});
+	$(".exckize-slider").slick({
+		dots: true,
+		infinite: true,
+		speed: 500,
+		fade: true,
+		cssEase: "linear",
+		slidesToShow: 1,
+		slidesToScroll: 1,
+		adaptiveHeight: true,
 		prevArrow: '<button class="slick-btn slick-prev"><img src="img/arrow_left.png" alt="" /></button>',
 		nextArrow: '<button class="slick-btn slick-next"><img src="img/arrow_right.png" alt="" /></button>',
 	});

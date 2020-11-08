@@ -1,10 +1,13 @@
 * {
 	color: rgba(255, 255, 255, 0.8);
+	font-family: Roboto;
+	font-size: 14px;
 }
 .page {
 	min-width: 100%;
 	min-height: 100vh;
 	background-color: rgba(0, 0, 0, 0.9);
+	padding: 0 60px 0;
 }
 h1 {
 	margin: 0;
@@ -40,8 +43,10 @@ img {
 .slick-prev {
 	left: 0;
 	z-index: 1;
+	border-radius: 5px 30px 30px 5px;
 }
 .slick-next {
+	border-radius: 30px 5px 5px 30px;
 	right: 0;
 }
 .slick-dots {
@@ -63,10 +68,9 @@ img {
 .slick-active {
 	opacity: 0.5;
 }
-a:-webkit-any-link {
-	color: -webkit-link;
-	cursor: pointer;
-	text-decoration: underline;
+.wrapper {
+	width: 50%;
 }
+
 @media (max-width: 800px) {
 }
