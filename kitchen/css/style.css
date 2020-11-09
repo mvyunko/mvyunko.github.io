@@ -4,7 +4,7 @@
 	font-size: 14px;
 }
 .page {
-	min-width: 100%;
+	max-width: 100%;
 	min-height: 100vh;
 	background-color: rgba(0, 0, 0, 0.9);
 	padding: 0 60px 0;
@@ -70,7 +70,4 @@ img {
 }
 .wrapper {
 	width: 50%;
-}
-
-@media (max-width: 800px) {
 }
